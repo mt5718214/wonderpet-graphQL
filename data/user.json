@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "account": "user1",
+      "password": "$2b$10$tNj.J39aEciz7t4uJMUFnelJ/bFhu5ks3AAXjdAGPIDQ0n42ozKYi",
+      "name": "kemp",
+      "birthday": "2000-12-12"
+    },
+    {
+      "account": "user2",
+      "password": "$2b$10$nvt9HKmjA5wakRXeS258IOs0dxA4C5WNmQwDh4s3go9Uhk3LY4l/S",
+      "name": "andy",
+      "birthday": "1998-09-18"
+    },
+    {
+      "account": "user3",
+      "password": "$2b$10$2CKHk7oYLQdnDkwYntuCt.rkqq9KKU6a04qUZv0.VBDGLvUyT43Ei",
+      "name": "joe",
+      "birthday": "2002-01-01"
+    }
+  ]
+}
