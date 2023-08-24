@@ -2,6 +2,7 @@
 ## clone project
 ```
 git clone https://github.com/mt5718214/wonderpet-graphQL.git
+cd wonderpet-graphQL
 ```
 ## install the dependencies
 ```
