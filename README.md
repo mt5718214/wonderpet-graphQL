@@ -33,6 +33,21 @@ npm run app
 ```
 
 # api 的規格與範例
+## User's login info
+```
+{
+  "account": "user1",
+  "password": "password",
+},
+{
+  "account": "user2",
+  "password": "andy1234",
+},
+{
+  "account": "user3",
+  "password": "su3y942l487",
+}
+```
 ## endpoint
 ```
 query Login($account: String!, $password: String!) {
@@ -60,22 +75,6 @@ query Me {
 ```
 ### Headers Authorization 帶入token
 ![](./doc/img/token.png)
-
-## User's login info
-```
-{
-  "account": "user1",
-  "password": "password",
-},
-{
-  "account": "user2",
-  "password": "andy1234",
-},
-{
-  "account": "user3",
-  "password": "su3y942l487",
-}
-```
 
 # 研究心得
 ```
